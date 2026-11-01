@@ -1,7 +1,7 @@
 # algoritmia
 Este repositorio esta orientado en subir los entregables de la ruta de algoritmia de RIWI
 
-DOCUMENTACIÓN: PRUEBAS DE ESCRITORIO DE ALGORITMOS
+DOCUMENTACIÓN: PRUEBAS DE ESCRITORIO DE ALGORITMOS - SEMANA 1
 
 Objetivo: Realizar dos pruebas de escritorio para cada algoritmo, utilizando diferentes datos de entrada para comprobar su funcionamiento y los resultados obtenidos.
 1. Algoritmo divCuenta
